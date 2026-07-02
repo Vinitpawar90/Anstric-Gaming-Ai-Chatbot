@@ -1,0 +1,76 @@
+# IT Support and Security Guidelines
+
+**Q: How do I connect to the company VPN?**
+A: Open the Cisco AnyConnect client, enter 'vpn.cbrain.internal', and authenticate using your Okta credentials and Duo 2FA.
+
+**Q: What is the process for resetting my Okta password?**
+A: Visit okta.cbrain.com, click "Need help signing in?" then "Forgot password". You will receive reset instructions via SMS and your secondary email. For a hard lockout, call IT at ext. 5555.
+
+**Q: How do I request a license for new software?**
+A: Submit a request through Jira Service Desk under "Software Request". Your manager must approve before IT provisions the license (usually within 2 business days).
+
+**Q: I received a suspicious email. How do I report a phishing attempt?**
+A: Use the "Report Phishing" button in your email client. This forwards the email to Infosec and safely deletes it from your inbox. Never click links in suspicious emails.
+
+**Q: How do I connect to the guest Wi-Fi network?**
+A: The "cBrain-Guest" Wi-Fi password changes every Monday and is displayed in the reception area. Employees should exclusively use the "cBrain-Secure" network.
+
+**Q: My company laptop is broken or lost. What should I do?**
+A: If lost/stolen, immediately email security@cbrain.com. If broken, submit a high-priority Jira ticket and visit the IT Walk-up desk for a loaner.
+
+**Q: How often must I change my main computer password?**
+A: Company policy requires you to change your Okta/computer login password every 90 days. You will receive email reminders starting 14 days before expiration.
+
+**Q: Are USB flash drives allowed on company computers?**
+A: No, USB storage devices are blocked by endpoint security to prevent data exfiltration and malware infections. Use OneDrive or Google Drive for file transfer.
+
+**Q: How do I set up my email on my personal mobile phone?**
+A: You must install the Microsoft Intune Company Portal app first to ensure your device meets security standards. Then, you can configure the Outlook app. Native mail apps are not supported.
+
+**Q: What is our standard laptop hardware for new hires?**
+A: Standard provisioning is a 14-inch MacBook Pro (M3 Pro chip, 16GB RAM, 512GB SSD) for engineering/product, and a Dell Latitude (Core i7, 16GB RAM) for sales and operations.
+
+**Q: I need an external monitor or keyboard for my home office. How do I get one?**
+A: You can order standard peripherals (monitors, keyboards, mice) directly through the IT Procurement catalog in Jira. Costs are charged back to your department's cost center.
+
+**Q: How do I gain access to a specific shared Google Drive or SharePoint folder?**
+A: Access to restricted shared drives must be approved by the data owner. Submit an access request via Jira Service Desk, and IT will route it to the appropriate data owner for approval.
+
+**Q: Is it okay to use ChatGPT or other AI tools for my work?**
+A: You may only use the enterprise-approved cBrain AI tools where data privacy agreements are in place. Do not enter confidential company data, PII, or proprietary code into public AI models like the free version of ChatGPT.
+
+**Q: How do I request admin rights on my local machine?**
+A: Local admin rights are restricted to Engineering and IT staff. If you require them temporarily for software installation, use the "Make Me Admin" self-service app which grants rights for 30 minutes.
+
+**Q: What do I do if my duo push authentication stops working?**
+A: If you get a new phone or Duo stops working, call the IT Helpdesk to receive a one-time bypass code and instructions on re-registering your new device.
+
+**Q: How do I access standard company templates for PowerPoint/Word?**
+A: All official company templates can be found in the "Company Resources" shared drive, accessible directly through the "Templates" button in your MS Office ribbon.
+
+**Q: Why is my account locked out?**
+A: Accounts automatically lock for 15 minutes after 5 failed login attempts. You can wait 15 minutes for it to auto-unlock, or call the IT Service Desk to have it unlocked immediately.
+
+**Q: How do I properly dispose of confidential printed documents?**
+A: All paper containing confidential data must be placed in the locked, grey Shred-It bins located near the printers on every floor. Do not throw them in standard recycling bins.
+
+**Q: How do I order a privacy screen for my laptop?**
+A: If you frequently travel or work in public spaces, you can order a standard 3M magnetic privacy screen through the IT catalog in Jira Service Desk.
+
+**Q: What should I do if I think my computer has a virus?**
+A: Disconnect from the Wi-Fi/VPN immediately but leave the computer powered on. Call the IT emergency line at ext. 9111 so the Infosec team can quarantine and investigate the device remotely.
+
+**Q: Can I use personal headphones or Bluetooth devices?**
+A: Yes, standard Bluetooth peripherals like headphones or mice are permitted. However, avoid pairing unknown or untrusted Bluetooth devices to your company machine.
+
+**Q: How do I setup an out-of-office auto-reply?**
+A: You can configure automatic replies directly within the Outlook desktop client (File > Automatic Replies) or via the Outlook Web App settings gear icon.
+
+**Q: How do I request a new distribution list or shared inbox?**
+A: These requests require manager approval. Submit a Jira Service Desk ticket explaining the business need, the desired email address names, and the list of initial members.
+
+**Q: Is split-tunneling allowed on the VPN?**
+A: Split-tunneling is disabled for all standard user profiles. All internet traffic is routed through the corporate firewall for security inspection when connected to the VPN.
+
+**Q: How do I securely share large files with an external client?**
+A: Use the enterprise Egnyte platform, which allows you to generate secure, password-protected, and time-expiring links for external file sharing. Do not use Dropbox or WeTransfer.

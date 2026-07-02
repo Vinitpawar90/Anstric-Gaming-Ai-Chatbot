@@ -1,0 +1,11 @@
+{
+  "name": "anstric-gaming-workspace",
+  "version": "1.0.0",
+  "description": "Root workspace for Anstric Gaming",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/startup.js",
+    "reset": "node scripts/reset.js",
+    "install:all": "npm install --prefix frontend && npm install --prefix backend"
+  }
+}

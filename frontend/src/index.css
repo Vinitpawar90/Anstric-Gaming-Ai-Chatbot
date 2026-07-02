@@ -1,0 +1,374 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Anstric Gaming Design System
+   Color Palette:
+   - Navy: #213448 (Primary)
+   - Steel Blue: #547792 (Secondary)
+   - Soft Teal: #94B4C1 (Accent)
+   - Cream: #EAE0CF (Background/Surface)
+*/
+
+@layer base {
+  :root {
+    /* Navy #213448 -> HSL(208, 37%, 21%) */
+    --background: 40 33% 93%;
+    /* Cream base */
+    --foreground: 208 37% 21%;
+    /* Navy */
+
+    /* Card uses lighter cream */
+    --card: 40 33% 96%;
+    --card-foreground: 208 37% 21%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 208 37% 21%;
+
+    /* Primary: Navy #213448 */
+    --primary: 208 37% 21%;
+    --primary-foreground: 40 33% 96%;
+
+    /* Secondary: Steel Blue #547792 */
+    --secondary: 207 27% 45%;
+    --secondary-foreground: 40 33% 96%;
+
+    /* Muted: Light teal tint */
+    --muted: 195 25% 85%;
+    --muted-foreground: 208 25% 40%;
+
+    /* Accent: Soft Teal #94B4C1 */
+    --accent: 195 30% 67%;
+    --accent-foreground: 208 37% 21%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 195 20% 80%;
+    --input: 195 20% 85%;
+    --ring: 208 37% 21%;
+
+    --radius: 0.75rem;
+
+    /* Status Colors - Semantic tokens for consistent UI states */
+    --status-success: 142 76% 36%;
+    /* Green */
+    --status-success-fg: 142 76% 96%;
+    --status-success-bg: 142 76% 36% / 0.1;
+    --status-success-border: 142 76% 36% / 0.2;
+
+    --status-warning: 38 92% 50%;
+    /* Yellow/Amber */
+    --status-warning-fg: 38 92% 96%;
+    --status-warning-bg: 38 92% 50% / 0.1;
+    --status-warning-border: 38 92% 50% / 0.2;
+
+    --status-error: 0 84% 60%;
+    /* Red */
+    --status-error-fg: 0 84% 96%;
+    --status-error-bg: 0 84% 60% / 0.1;
+    --status-error-border: 0 84% 60% / 0.2;
+
+    --status-info: 221 83% 53%;
+    /* Blue */
+    --status-info-fg: 221 83% 96%;
+    --status-info-bg: 221 83% 53% / 0.1;
+    --status-info-border: 221 83% 53% / 0.2;
+
+    --status-neutral: 215 14% 34%;
+    /* Gray */
+    --status-neutral-fg: 215 14% 96%;
+    --status-neutral-bg: 215 14% 34% / 0.1;
+    --status-neutral-border: 215 14% 34% / 0.2;
+
+    /* Aurora colors */
+    --blue-500: 217.2 91.2% 59.8%;
+    --indigo-300: 229.7 93.5% 81.8%;
+    --blue-300: 199.4 89% 48.3%;
+    --violet-200: 250.5 95.2% 91.8%;
+    --blue-400: 213.1 93.9% 67.8%;
+
+    --white: 0 0% 100%;
+    --black: 0 0% 0%;
+    --transparent: 0 0% 0% / 0;
+
+    /* Custom Anstric Gaming tokens */
+    --anstricgaming-navy: 208 37% 21%;
+    --anstricgaming-steel: 207 27% 45%;
+    --anstricgaming-teal: 195 30% 67%;
+    --anstricgaming-cream: 40 33% 93%;
+    --anstricgaming-cream-light: 40 33% 97%;
+
+    /* Glass effect */
+    --glass-bg: 0 0% 100% / 0.7;
+    --glass-border: 0 0% 100% / 0.3;
+
+    --sidebar-background: 40 33% 95%;
+    --sidebar-foreground: 208 37% 21%;
+    --sidebar-primary: 208 37% 21%;
+    --sidebar-primary-foreground: 40 33% 96%;
+    --sidebar-accent: 195 30% 67%;
+    --sidebar-accent-foreground: 208 37% 21%;
+    --sidebar-border: 195 20% 80%;
+    --sidebar-ring: 208 37% 21%;
+  }
+
+  .dark {
+    --background: 208 37% 12%;
+    --foreground: 40 33% 93%;
+
+    --card: 208 37% 16%;
+    --card-foreground: 40 33% 93%;
+
+    --popover: 208 37% 16%;
+    --popover-foreground: 40 33% 93%;
+
+    --primary: 40 33% 93%;
+    --primary-foreground: 208 37% 21%;
+
+    --secondary: 207 27% 35%;
+    --secondary-foreground: 40 33% 93%;
+
+    --muted: 208 30% 25%;
+    --muted-foreground: 195 25% 70%;
+
+    --accent: 195 30% 50%;
+    --accent-foreground: 40 33% 93%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 208 30% 25%;
+    --input: 208 30% 25%;
+    --ring: 40 33% 93%;
+
+    --anstricgaming-navy: 208 37% 21%;
+    --anstricgaming-steel: 207 27% 45%;
+    --anstricgaming-teal: 195 30% 67%;
+    --anstricgaming-cream: 40 33% 93%;
+    --anstricgaming-cream-light: 40 33% 97%;
+
+    --glass-bg: 208 37% 21% / 0.7;
+    --glass-border: 208 37% 30% / 0.3;
+
+    --sidebar-background: 208 37% 12%;
+    --sidebar-foreground: 40 33% 93%;
+    --sidebar-primary: 195 30% 67%;
+    --sidebar-primary-foreground: 208 37% 21%;
+    --sidebar-accent: 208 30% 25%;
+    --sidebar-accent-foreground: 40 33% 93%;
+    --sidebar-border: 208 30% 25%;
+    --sidebar-ring: 195 30% 67%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/70 backdrop-blur-xl border border-white/30 shadow-xl;
+  }
+
+  .glass-dark {
+    @apply bg-primary/10 backdrop-blur-xl border border-primary/20 shadow-xl;
+  }
+
+  .text-gradient {
+    @apply bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent;
+  }
+
+  .hover-lift {
+    @apply transition-all duration-300 hover:-translate-y-1 hover:shadow-2xl;
+  }
+
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .animate-float-delayed {
+    animation: float 6s ease-in-out infinite 2s;
+  }
+
+  .animate-pulse-slow {
+    animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  @keyframes float {
+
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+
+    50% {
+      transform: translateY(-20px);
+    }
+  }
+
+  @keyframes shimmer {
+    0% {
+      background-position: -200% 0;
+    }
+
+    100% {
+      background-position: 200% 0;
+    }
+  }
+
+  .shimmer {
+    background: linear-gradient(90deg,
+        hsl(var(--anstricgaming-cream)) 0%,
+        hsl(var(--anstricgaming-teal) / 0.3) 50%,
+        hsl(var(--anstricgaming-cream)) 100%);
+    background-size: 200% 100%;
+    animation: shimmer 3s infinite;
+  }
+
+  /* Auth page animations */
+  .animate-element {
+    animation: fadeInUp 0.6s ease-out forwards;
+    opacity: 0;
+  }
+
+  .animate-slide-right {
+    animation: slideInRight 0.8s ease-out forwards;
+    opacity: 0;
+  }
+
+  .animate-testimonial {
+    animation: floatIn 0.8s ease-out forwards;
+    opacity: 0;
+  }
+
+  /* Animation delays */
+  .animate-delay-100 {
+    animation-delay: 0.1s;
+  }
+
+  .animate-delay-200 {
+    animation-delay: 0.2s;
+  }
+
+  .animate-delay-300 {
+    animation-delay: 0.3s;
+  }
+
+  .animate-delay-400 {
+    animation-delay: 0.4s;
+  }
+
+  .animate-delay-500 {
+    animation-delay: 0.5s;
+  }
+
+  .animate-delay-600 {
+    animation-delay: 0.6s;
+  }
+
+  .animate-delay-700 {
+    animation-delay: 0.7s;
+  }
+
+  .animate-delay-800 {
+    animation-delay: 0.8s;
+  }
+
+  .animate-delay-900 {
+    animation-delay: 0.9s;
+  }
+
+  .animate-delay-1000 {
+    animation-delay: 1.0s;
+  }
+
+  .animate-delay-1200 {
+    animation-delay: 1.2s;
+  }
+
+  .animate-delay-1400 {
+    animation-delay: 1.4s;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes slideInRight {
+    from {
+      opacity: 0;
+      transform: translateX(40px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes floatIn {
+    from {
+      opacity: 0;
+      transform: translateY(30px) scale(0.95);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  }
+
+  /* Custom checkbox styling */
+  .custom-checkbox {
+    appearance: none;
+    -webkit-appearance: none;
+    @apply w-5 h-5 rounded-md border-2 border-border bg-background cursor-pointer relative;
+    @apply transition-all duration-200 ease-in-out;
+    @apply hover:border-primary hover:bg-primary/5;
+    @apply focus-visible:ring-2 focus-visible:ring-primary/20 focus-visible:ring-offset-2;
+  }
+
+  .custom-checkbox:checked {
+    @apply bg-primary border-primary;
+  }
+
+  .custom-checkbox:checked::after {
+    content: '';
+    position: absolute;
+    left: 6px;
+    top: 2px;
+    width: 5px;
+    height: 10px;
+    border: solid hsl(var(--primary-foreground));
+    border-width: 0 2.5px 2.5px 0;
+    transform: rotate(45deg);
+  }
+
+  /* Custom Scrollbar Utility */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-muted-foreground/10 rounded-full hover:bg-muted-foreground/30 transition-colors;
+  }
+}

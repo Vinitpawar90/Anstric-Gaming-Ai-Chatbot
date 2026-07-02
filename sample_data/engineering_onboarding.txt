@@ -1,0 +1,76 @@
+# Engineering Onboarding and Workflows
+
+**Q: What is our Git branching strategy?**
+A: cBrain Engineering uses a trunk-based development workflow. All active development happens on short-lived feature branches cut from `main` (named `feat/your-feature` or `fix/issue-description`). Developers merge back into `main` after passing CI/CD pipelines and obtaining one peer review.
+
+**Q: When are the standard production deployment windows?**
+A: We deploy code to production continuously. However, major database migrations and breaking API changes must be scheduled during our low-traffic window, which is Tuesdays and Thursdays between 2:00 AM and 4:00 AM UTC. Please notify the SRE team 48 hours in advance for risky deployments.
+
+**Q: How do I access the staging database?**
+A: To access the staging PostgreSQL database, you must be connected to the company VPN. Use the connection string provided in the `backend/config/staging.env` file. You can use standard client tools like DBeaver or pgAdmin. Remember, the staging DB is automatically cloned from prod and scrubbed of PII every Sunday midnight.
+
+**Q: How do we handle hotfixes?**
+A: If a critical bug is discovered in production, create a branch named `hotfix/issue-ticket`. Hotfixes bypass the standard staging approval queue but still require a peer review from a Principal Engineer before being merged into `main` and fast-tracked to production via GitHub Actions.
+
+**Q: What are the backend coding standards?**
+A: For our Node.js/TypeScript backend, we strictly follow the Airbnb style guide, enforced by ESLint. All new functionality must include unit tests written in Jest, achieving at least 80% code coverage. API endpoints must be documented using Swagger/OpenAPI annotations directly in the Controller files.
+
+**Q: How do I request elevated AWS permissions?**
+A: Submit a PR to the `infrastructure-as-code` repository under the `.github/workflows/iam-requests.yml` file. Add your okta username to the requested role group. The Security and DevOps teams will review and approve the PR, which automatically provisions your new access.
+
+**Q: What is our tech stack?**
+A: Our primary tech stack includes React/TypeScript for the frontend, Node.js/Express for the backend, PostgreSQL for the primary database, and Redis for caching. We deploy everything on AWS primarily using ECS Fargate.
+
+**Q: How do I access logs for production services?**
+A: Production logs are aggregated and searchable using Datadog. Log into Datadog through Okta, navigate to the Logs dashboard, and filter by your service name and environment tag (e.g., `env:prod`).
+
+**Q: What is the process for updating an npm dependency?**
+A: If a dependency needs an update due to security vulns or new features, create a PR with the updated `package.json` and `package-lock.json`. Our CI will automatically run all tests. Do not use `npm update --force`.
+
+**Q: How do I get access to the GitHub organization?**
+A: Your manager must submit an IT ticket during your onboarding. Once processed, you will receive an invitation to the cBrain GitHub org to the email associated with your GitHub account.
+
+**Q: Where can I find our CI/CD pipeline definitions?**
+A: We use GitHub Actions. All pipeline workflows are defined in the `.github/workflows` directory of each main repository. The primary build and deploy scripts are found in `deploy.yml`.
+
+**Q: How are database schema changes managed?**
+A: We use Knex.js migrations. Create a new migration file using the CLI (`npx knex migrate:make`), write your `up` and `down` logic, and commit the file. The CI/CD pipeline handles applying them during deployment.
+
+**Q: How do I run the project locally?**
+A: Clone the repo, run `npm install`, then run `npm run docker:up` to start the local Postgres and Redis containers. Finally, run `npm run dev` to start the backend server in watch mode.
+
+**Q: What is the required code coverage percentage?**
+A: All new pull requests must maintain or increase the current code coverage. The minimum acceptable threshold is 80% for both statement and branch coverage across the backend.
+
+**Q: How do I trigger a manual deployment to staging?**
+A: Go to the Actions tab in the GitHub repo, select the "Deploy to Staging" workflow, and click "Run workflow" against the specific branch you want to test.
+
+**Q: What is the policy on embedding secrets in code?**
+A: NEVER hardcode secrets, API keys, or passwords in your code. All configuration must be provided via environment variables, loaded safely through AWS Secrets Manager in production.
+
+**Q: How do I format code before pushing?**
+A: We use Prettier. Run `npm run format` locally, or rely on the pre-commit Husky hook which automatically formats staged files.
+
+**Q: How do I report a security vulnerability in our codebase?**
+A: If you find a security flaw, do not open a public GitHub issue or discuss it in public Slack channels. Message the Infosec team directly in the private `#security-triage` channel or email them.
+
+**Q: Where is our REST API documentation?**
+A: Interactive Swagger UI documentation is automatically generated from our codebase and is available at `staging.api.cbrain.com/docs` and `api.cbrain.com/docs`.
+
+**Q: How are feature flags managed?**
+A: We use LaunchDarkly for feature toggles. Create a new boolean flag in their portal before writing code, and use their SDK to conditionally execute your new feature logic.
+
+**Q: Can I use open-source libraries with GPL licenses?**
+A: No, GPL and AGPL licensed libraries are strictly prohibited as they require us to open-source our proprietary code. Permissive licenses like MIT, Apache 2.0, and BSD are approved.
+
+**Q: How do I resolve a Node OOM (Out of Memory) error locally?**
+A: If your local dev server crashes with a `heap out of memory` error, increase the max old space size by prefixing your run command: `NODE_OPTIONS="--max-old-space-size=4096" npm run dev`.
+
+**Q: What is the policy for creating new microservices?**
+A: Creating a new microservice requires an approved RFC (Request for Comments) distributed to the Architecture Review Board. By default, new logic should be built into the existing monolithic API unless decoupling is strictly necessary.
+
+**Q: Where do I store technical design documents (TDDs)?**
+A: All Technical Design Documents should be written in Markdown and stored in the `docs/architecture` folder of the main backend repository so they can be version-controlled alongside the code.
+
+**Q: How do I handle scheduled cron jobs?**
+A: We use AWS EventBridge to trigger ECS tasks on a schedule. Do not run internal `setInterval` loops or Node cron jobs within the API server processes, as they run redundantly across horizontally scaled nodes.

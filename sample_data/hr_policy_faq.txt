@@ -1,0 +1,76 @@
+# Human Resources and Benefits FAQ
+
+**Q: How many Paid Time Off (PTO) days do employees get?**
+A: Full-time employees accrue 20 days of PTO per calendar year. New employees accrue PTO on a prorated basis during their first year.
+
+**Q: What is the company's remote work policy?**
+A: cBrain operates on a flexible hybrid model. Employees are expected to be in the office 3 days a week (Tuesday through Thursday) and can work remotely on Mondays and Fridays.
+
+**Q: Does the company offer a 401(k) match?**
+A: Yes, cBrain offers a 401(k) retirement plan through Fidelity. The company matches 100% of the first 4% of your eligible compensation contributed to the plan, and vesting is immediate.
+
+**Q: How do I request parental leave?**
+A: cBrain offers 12 weeks of fully paid parental leave for primary and secondary caregivers following the birth or adoption of a child. Submit a request through the Workday portal at least 30 days prior.
+
+**Q: When is payday?**
+A: Employees are paid semi-monthly on the 15th and the last business day of the month. If the 15th or last day falls on a weekend, payday is the preceding business day.
+
+**Q: What is the annual health and wellness stipend?**
+A: Employees receive a $500 annual stipend for gym memberships, fitness equipment, or mental health apps. Receipts must be submitted through Expensify by December 15th.
+
+**Q: How many sick days are provided annually?**
+A: Employees receive 10 paid sick days per year, available immediately upon hire. Unused sick days do not roll over to the following year.
+
+**Q: Can I roll over unused PTO to the next year?**
+A: Yes, employees can roll over a maximum of 5 days of unused PTO into the next calendar year. Any days above 5 will be forfeited if not used by December 31st.
+
+**Q: Does the company cover continuing education or certifications?**
+A: The company provides an annual learning stipend of $1,500 for approved courses, conferences, or certifications related to your role. Manager approval is required before purchase.
+
+**Q: What is the bereavement leave policy?**
+A: Employees are entitled to up to 5 days of paid bereavement leave in the event of the death of an immediate family member. 
+
+**Q: Is vision and dental insurance included in the health plan?**
+A: Yes, complete vision and dental coverage are included at no extra premium cost in both the standard and premium health insurance plans offered through BlueCross.
+
+**Q: How do I add my newborn to my health insurance?**
+A: You must add a newborn or newly adopted child to your health insurance within 30 days of the qualifying life event through the Workday Benefits dashboard.
+
+**Q: Does the company support visa sponsorships?**
+A: Yes, cBrain sponsors H-1B transfers and initial H-1B applications for full-time engineering and specialized roles on a case-by-case basis. Contact hr-immigration@cbrain.com for details.
+
+**Q: How do I sign up for the commuter benefits program?**
+A: You can set aside pre-tax dollars for transit and parking. Enroll through the Commuter Benefits section in Workday by the 10th of the month to be active for the next month.
+
+**Q: Are there any employee discounts available?**
+A: Yes, employees have access to the PerkSpot portal, which offers discounts on gym memberships, cell phone plans, rental cars, and movie tickets. You can log in using your Okta credentials.
+
+**Q: How does the referral bonus program work?**
+A: If you refer a candidate who is hired and stays for 90 days, you receive a $2,000 bonus for standard roles and a $5,000 bonus for engineering and director-level roles.
+
+**Q: What are the core working hours?**
+A: Core collaboration hours are between 10:00 AM and 3:00 PM local time. Employees should be available for meetings during this window, though you can structure the rest of your 8-hour day flexibly.
+
+**Q: Do I get paid time off to vote?**
+A: Yes, employees are granted up to 2 hours of paid time off to vote in local, state, and national elections if they do not have sufficient time outside of working hours.
+
+**Q: Does the company match employee charity donations?**
+A: cBrain matches employee donations to registered 501(c)(3) nonprofits up to $1,000 per employee per calendar year. Submit your donation receipt in the Benevity portal.
+
+**Q: How do I access my W-2 tax forms?**
+A: W-2 forms are distributed electronically via ADP by January 31st of each year. You can download current and past W-2s from the ADP self-service portal.
+
+**Q: What is the policy for jury duty?**
+A: The company provides up to 10 days of paid leave for jury duty. Employees must provide a copy of the jury summons to HR and their manager as soon as they receive it.
+
+**Q: How are performance reviews conducted?**
+A: Performance reviews occur bi-annually in June and December. They include a self-assessment, peer feedback, and a formal review meeting with your direct manager.
+
+**Q: Can I expense meals when working late?**
+A: If you are required to work past 7:30 PM at the office, you may expense a meal up to $25 using your corporate card or through reimbursement on Expensify.
+
+**Q: How do I request an ergonomic assessment for my desk?**
+A: Submit a request in Jira Service Desk under the "HR & Facilities" category. An external specialist will conduct a virtual or in-person evaluation and recommend necessary equipment.
+
+**Q: What is the process for submitting an HR grievance?**
+A: If you have a workplace concern, you can report it to your direct manager, your assigned HR Business Partner, or anonymously via the Ethics Hotline at 1-800-555-0199.

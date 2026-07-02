@@ -1,0 +1,76 @@
+# Office and Facilities Management
+
+**Q: Where do I register my car for the parking garage?**
+A: All employees who drive to work must register their vehicle license plate with building security. You can fill out the vehicle registration form on the company intranet under "Facilities > Parking". Temporary passes for guests can be printed at the front desk.
+
+**Q: What are the building hours and when do I need my keycard?**
+A: The main cBrain office is open from 7:00 AM to 7:00 PM, Monday through Friday. Your employee badge is required to enter the building, use the elevators, and access the secure office suite at all times. If you forget your badge, security can issue a 1-day temporary pass after verifying your identity.
+
+**Q: How do I book a conference room for a client visit?**
+A: Conference rooms can be booked through Google Calendar by adding the "Room Resource" to your meeting invite. For large client visits (more than 10 people), please book the "Boardroom (10th floor)" and email facilities@cbrain.com to request catering setup at least 48 hours in advance.
+
+**Q: What is on the cafeteria menu this week?**
+A: The subsidized company cafeteria is located on the 2nd floor and is open from 11:30 AM to 2:00 PM. The weekly menu is posted every Monday morning on the `#office-announcements` Slack channel. Dietary restrictions (vegan, gluten-free, halal) are accommodated daily.
+
+**Q: Are dogs allowed in the office?**
+A: Yes! cBrain is a dog-friendly office. However, you must register your dog with HR and verify they are up to date on all vaccinations, including rabies and bordetella. Dogs must remain on a leash in common areas and are not permitted in the cafeteria or formal conference rooms.
+
+**Q: What do I do in case of a fire alarm?**
+A: If the fire alarm sounds, evacuate the building immediately using the nearest stairwell. Do not use the elevators. Proceed to the designated assembly point at the public park across the street. Wait for the Floor Warden or Fire Department to give the "all clear" before re-entering the building.
+
+**Q: How do I request an ergonomic chair?**
+A: If you need an ergonomic chair replacement or adjustment, submit a Jira Service Desk ticket to Facilities. A facilities coordinator will schedule a quick evaluation with you.
+
+**Q: Where are the mother's nursing rooms located?**
+A: The private Wellness/Nursing rooms are located on the 4th and 6th floors near the primary restrooms. They can be reserved via Google Calendar under "Wellness Room 4A" and "Wellness Room 6B".
+
+**Q: How do I register a visitor/guest?**
+A: All visitors must be pre-registered using the Envoy app at least 2 hours prior to arrival. Upon entry, they must show a photo ID to the lobby security desk to receive their guest badge.
+
+**Q: Where is the lost and found?**
+A: The official lost and found is located at the front reception desk on the 1st floor. Items of significant value (wallets, phones, laptops) are handed over to building security at the end of the day.
+
+**Q: How do I submit a maintenance request (e.g., a burnt-out lightbulb or broken desk)?**
+A: Submit a quick request by emailing fix-it@cbrain.com with the floor number, specific location, and a brief description of the issue. Routine requests are handled within 24 hours.
+
+**Q: Where can I park my bicycle?**
+A: A secure, card-access bicycle storage room is located in the P1 level of the parking garage. DO NOT lock bicycles to the railings directly outside the lobby doors.
+
+**Q: Are there showers in the building?**
+A: Yes, there are male and female locker rooms with showers on the 2nd floor next to the company gym. Towel service is not provided, so please bring your own.
+
+**Q: How do I get access to the building gym?**
+A: The gym is free for all employees. You must sign a liability waiver, which can be found on the HR intranet, and return it to Facilities. Your badge access will be activated within 24 hours.
+
+**Q: What is the policy for eating at my desk?**
+A: Eating at your desk is permitted. However, please be considerate of coworkers regarding strong-smelling foods, and ensure you properly dispose of all food waste in the designated kitchen bins, not your small desk trash can.
+
+**Q: Who handles mail and package deliveries?**
+A: The mailroom on the ground floor handles all incoming and outgoing mail. If you receive a personal package, you will get an automated email notification from the Envoy system to pick it up.
+
+**Q: Can I use the office printers for personal documents?**
+A: Occasional, reasonable use of office printers for personal documents is acceptable. However, printing large volumes (e.g., books, massive manuals) is strictly prohibited.
+
+**Q: Where do I put confidential shredding?**
+A: Locked grey Shredding bins are located near the printer stations on every floor. Do not put sensitive documents in regular recycling bins.
+
+**Q: Is smoking or vaping allowed on the premises?**
+A: No, the entire building and the area immediately surrounding the entrances are strictly smoke-free and vape-free. You must walk at least 25 feet away from any entrance to smoke.
+
+**Q: How do I request a standing desk?**
+A: All new employee workstations come equipped with motorized sit-stand desks by default. If your older desk is stationary, submit a Facilities ticket for an upgrade.
+
+**Q: Where are the first aid kits located?**
+A: Large, highly visible first aid kits are mounted on the wall inside every pantry/kitchen area on all floors. There is also an AED (defibrillator) located next to the main elevators on each floor.
+
+**Q: What do I do if the office is too hot or cold?**
+A: The HVAC system is centrally controlled by the building management. Do not attempt to adjust local thermostats manually. Instead, email facilities@cbrain.com, and they will contact the building engineers.
+
+**Q: How do I book event space for a team offsite?**
+A: The "Town Hall" space on the 1st floor can be booked for large team gatherings of 30+ people. Please contact the Events Coordinator at events@cbrain.com at least 2 weeks in advance.
+
+**Q: Are there quiet zones in the office?**
+A: The "Library" section located on the west wing of the 5th floor is designated as a strict quiet zone. Phone calls and extended conversations are not permitted in this area.
+
+**Q: What is the procedure for working on weekends?**
+A: You may access the office on weekends using your employee badge. However, HVAC systems operate on a reduced schedule to save energy, and the cafeteria is closed. Please notify security if you plan to be alone on a floor.

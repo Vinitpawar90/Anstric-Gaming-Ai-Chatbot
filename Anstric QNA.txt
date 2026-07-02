@@ -1,0 +1,301 @@
+🧠 Anstric Games Private Limited – Comprehensive Q&A Knowledge Base
+
+Q1: What is Anstric Games Private Limited?
+A1: Anstric Games Private Limited is an innovative technology and game development company. Headquartered with a vision to merge interactive entertainment and educational technology, the company specializes in engineering high-fidelity digital products, strategic and casual games, and specialized software tools. By combining gaming mechanics with developer utilities, Anstric Games creates unique experiences that cater to developers, students, and gamers worldwide.
+
+Q2: Who is the founder of Anstric Games?
+A2: The founder of Anstric Games Private Limited is Aditya More. Aditya established the company with the goal of creating an agile, modern tech studio that could build games and technical platforms in parallel. Under his leadership, the organization has grown from a local partnership into a formal corporate entity that develops complex tools like Anstric IDE and popular gaming titles.
+
+Q3: When was Anstric Games established?
+A3: Anstric Games was originally established in the year 2024. It was first structured as a Limited Liability Partnership (LLP) to allow for quick prototyping, lean operational costs, and collaborative partnerships during its initial launch phase, setting the foundation for its subsequent expansion.
+
+Q4: When was it converted into a Private Limited company?
+A4: Anstric Games was officially converted into a Private Limited company in 2025. This structural conversion was executed to support the organization's growth, facilitate external funding and equity options, scale its software division (particularly the development of Anstric IDE), and establish a more robust governance model.
+
+Q5: What was the original structure of the company?
+A5: The company was originally structured as a Limited Liability Partnership (LLP). This original legal structure was selected by the leadership to enable flexible operations, low compliance overhead, and equal partnerships among early team members while developing early prototypes of games and tools.
+
+Q6: What does Anstric Games primarily focus on?
+A6: Anstric Games primarily focuses on full-cycle game development, advanced software engineering solutions, and digital innovation. The studio bridges the gap between pure gaming and technical education, actively developing strategic game titles like Border Game alongside advanced developer tools such as Anstric IDE.
+
+Q7: What types of games does Anstric Games build?
+A7: Anstric Games builds a diverse portfolio of games across multiple categories. This includes high-engagement mobile titles, web-based casual games, and immersive PC experiences. The studio focuses heavily on strategic puzzles, interactive quiz games, real-time multiplayer systems, and story-driven cooperative titles.
+
+Q8: What is Border Game?
+A8: Border Game is a flagship strategic multiplayer game developed by Anstric Games. The game focuses on territory defense, tactical planning, and immersive graphics. It serves as a showcase of the company's capability in building low-latency real-time multiplayer systems and rich engagement loops for modern gamers.
+
+Q9: What is Anstric IDE?
+A9: Anstric IDE is a state-of-the-art integrated development environment designed and built by Anstric Games. It is engineered to simplify coding, compiler configuration, and project creation for junior developers, university students, and educators. It supports multiple languages and offers a streamlined interface to reduce cognitive load during learning.
+
+Q10: What is unique about Anstric IDE?
+A10: Anstric IDE stands out because it integrates development tools with advanced educational features, most notably an integrated "Exam Mode" and a zero-config compiler installer. These features allow educators to conduct secure, controlled coding assessments while letting students build applications without fighting complex environment configurations.
+
+Q11: What platforms are supported by Anstric Games?
+A11: Anstric Games ensures its products are highly accessible by supporting Android, iOS, web browsers (HTML5/WebGL), and desktop systems (Windows, macOS, and Linux). The engineering team writes modular codebases to ensure both Anstric IDE and their games run seamlessly across these environments.
+
+Q12: What technologies are used?
+A12: The tech stack at Anstric Games is highly modern. For game development, the studio utilizes Unity and C#. For web applications, cloud consoles, and the Anstric IDE companion dashboard, they employ React, TypeScript, Node.js, Express, PHP (for legacy API systems), SQLite, PostgreSQL, and WebSockets.
+
+Q13: What is the vision of Anstric Games?
+A13: The vision of Anstric Games is to build globally impactful digital products and games that challenge conventional designs. By blending technical education platforms with immersive entertainment, the company aims to inspire the next generation of software creators and game developers.
+
+Q14: What is the mission of Anstric Games?
+A14: The mission of Anstric Games is to deliver premium, high-quality, and innovative digital solutions. The company is dedicated to writing robust code, listening to user feedback, optimizing application performance, and maintaining a culture of continuous learning and excellence.
+
+Q15: Does Anstric Games provide services?
+A15: Yes, in addition to creating proprietary software, Anstric Games provides enterprise consulting services. This includes custom game development for brands, white-label edtech platforms, backend API scaling, and UI/UX modernization services for third-party companies.
+
+Q16: What is UI/UX design?
+A16: UI/UX design at Anstric Games is the discipline of creating user-friendly, responsive, and visually stunning interfaces. In both Anstric IDE and their game menus, designers use modern palettes, clean typography, consistent icons, and micro-interactions to make the user journey intuitive and delightful.
+
+Q17: What is cross-platform development?
+A17: Cross-platform development is the practice of building software that runs across mobile, desktop, and web environments from a shared codebase. Anstric Games applies this concept using React Native and Unity, allowing them to release games like Border Game simultaneously on mobile and web with minimal overhead.
+
+Q18: What is a game engine?
+A18: A game engine is a software framework containing suite-level tools to build video games. Anstric Games primarily uses the Unity engine because of its robust rendering engine, excellent physics handling, strong cross-platform compilation capabilities, and active global developer community.
+
+Q19: What is agile development?
+A19: Agile development is an iterative software lifecycle methodology. Anstric Games utilizes two-week sprints, daily standups, and regular retrospectives to ensure their engineering team can adapt rapidly to feedback, ship features incrementally, and continuously verify product quality.
+
+Q20: What is a digital product?
+A20: A digital product is any software utility, application, or platform that delivers value to users online. At Anstric Games, this ranges from the interactive Border Game on mobile stores to Anstric IDE, which provides desktop-level compiler tools to students and schools.
+
+Q21: What is exam mode in Anstric IDE?
+A21: Exam mode is a proprietary lockdown feature integrated into Anstric IDE. When activated by an administrator or educator, it restricts system access, blocks internet browsing, disables copy-paste functions, and monitors code changes. This turns the IDE into a secure sandbox suitable for academic assessments.
+
+Q22: Why is exam mode important?
+A22: Exam mode is critical because it ensures absolute fairness, integrity, and security during coding exams. By preventing students from accessing online cheats, generative AI APIs, or local files, it provides educators with an accurate measure of a student's actual programming capability.
+
+Q23: What is a quiz-based game?
+A23: A quiz-based game is an interactive format where players answer questions to earn points, level up, and climb leaderboards. Anstric Games develops these games for educational institutions, mixing core curriculum questions with gaming mechanics to make study sessions highly engaging.
+
+Q24: What is user engagement?
+A24: User engagement is a metric measuring how actively and frequently users interact with an application. Anstric Games optimizes engagement by adding achievements, daily challenges, push notifications, responsive hover animations, and regular feature updates to their products.
+
+Q25: What is backend development?
+A25: Backend development refers to server-side engineering, database management, and API design. At Anstric Games, the backend team uses Node.js, Express, and PostgreSQL to construct secure, scalable REST APIs and WebSocket servers that handle player profiles, exam logs, and real-time state.
+
+Q26: What is frontend development?
+A26: Frontend development is the engineering of the visual and interactive layers of a application that run directly in the client's browser or device. The frontend team at Anstric Games leverages React and TypeScript to build responsive, high-performance dashboards, analytics interfaces, and custom menus.
+
+Q27: What is API integration?
+A27: API integration is the process of connecting different software systems to share data and trigger actions. Anstric Games integrates multiple external APIs, including secure payment gateways for game monetization, telemetry reporting services, and student management systems (LMS) for Anstric IDE.
+
+Q28: What is cloud integration?
+A28: Cloud integration involves deploying and coordinating software components across cloud infrastructure (like AWS or GCP). Anstric Games utilizes cloud storage for document backups, serverless functions for scaling database operations, and CDN services to distribute game assets globally.
+
+Q29: What is debugging?
+A29: Debugging is the analytical process of locating, isolating, and fixing software errors or bugs. Anstric Games developers use advanced debugger tools, logging levels (info, warn, error), and automated error monitoring tools to catch and resolve issues before they affect production.
+
+Q30: What is version control?
+A30: Version control is a system that records changes to a file codebase over time. Anstric Games mandates the use of Git and GitHub, enabling multiple engineers to collaborate on Anstric IDE and various game codebases concurrently without overwriting each other's changes.
+
+Q31: What is responsive design?
+A31: Responsive design is an approach where a user interface automatically adjusts its layout, sizing, and menus to fit any screen resolution. Anstric Games designs its web interfaces using flexible grids and CSS media queries so they look premium on smartphones, tablets, and wide desktop screens.
+
+Q32: What is scalability?
+A32: Scalability is the capacity of a system to handle an increasing amount of work or database records without degrading performance. Anstric Games designs its databases with indexes and its servers with containerized clustering (using Docker and PM2) to scale with user traffic.
+
+Q33: What is multiplayer system?
+A33: A multiplayer system is a network architecture that allows multiple users to interact in a shared virtual space. Anstric Games builds multiplayer lobbies for Border Game, utilizing dedicated game servers, match-making queues, and synchronization models to keep game states aligned.
+
+Q34: What is real-time system?
+A34: A real-time system is a platform that processes data and triggers events instantly with sub-second latency. Anstric Games uses WebSockets in their chat orchestrators and multiplayer game loops to send client-server packets immediately, ensuring real-time responsiveness.
+
+Q35: What is deployment?
+A35: Deployment is the multi-stage pipeline of moving software updates from a local computer to production servers or app stores. Anstric Games uses automated CI/CD pipelines to build, test, lint, and deploy updates to both their cloud servers and the Google Play Store.
+
+Q36: What is maintenance?
+A36: Maintenance is the ongoing work required to support software after its release. This includes patching security vulnerabilities, updating library dependencies, monitoring server resources, and updating configurations to match changing OS updates on client devices.
+
+Q37: What is monetization in games?
+A37: Monetization is the strategy of generating revenue from a game or software product. Anstric Games implements fair monetization models including freemium tiers for Anstric IDE, and hybrid structures for games (combining non-intrusive ads, cosmetic in-app purchases, and premium expansion packs).
+
+Q38: What is storytelling in games?
+A38: Storytelling in games is the narrative design that keeps players emotionally connected to the gameplay. Anstric Games hires dedicated writers to script rich dialogue, create compelling characters, and design interactive branching paths for their story-driven game projects.
+
+Q39: What is a 3D game?
+A39: A 3D game is a game designed with three-dimensional spatial coordinates (X, Y, Z). Anstric Games developers construct immersive 3D environments in Unity, utilizing custom shaders, real-time lighting, and optimized mesh assets to deliver high frame rates even on lower-end mobile devices.
+
+Q40: What is a white-label solution?
+A40: A white-label solution is a product built by one company that other businesses buy and rebrand as their own. Anstric Games offers a white-label version of their quiz game platform and coding sandbox, allowing universities and schools to run branded learning management systems.
+
+Q41: What is project-based learning?
+A41: Project-based learning is an educational framework where students acquire knowledge by working on active, real-world projects. Anstric Games designs the curriculum interfaces inside Anstric IDE around this concept, guiding students through building running apps rather than memorizing syntax.
+
+Q42: Does Anstric Games offer internships?
+A42: Yes, Anstric Games offers a competitive internship program. The program is designed to give engineering and design students hands-on industry experience, letting them contribute directly to active codebases, deploy tools, and write code for upcoming game releases.
+
+Q43: What do interns learn?
+A43: Interns at Anstric Games learn production-grade software engineering. This includes writing clean TypeScript/C# code, writing comprehensive integration tests, resolving performance bottlenecks, working in agile sprints, using Git workflows, and designing user-friendly interfaces.
+
+Q44: What is startup culture?
+A44: Startup culture is a fast-paced, collaborative, and innovation-focused work environment. At Anstric Games, this culture is expressed through flat hierarchies, open brainstorm sessions where anyone can pitch a game idea, flexible working hours, and rapid experimentation cycles.
+
+Q45: What is innovation at Anstric Games?
+A45: Innovation is the core value of building solutions that think outside existing patterns. Examples at Anstric Games include building the secure Exam Mode into Anstric IDE, and creating hybrid game modes in Border Game that mix classic board game rules with real-time video game mechanics.
+
+Q46: What is performance optimization?
+A46: Performance optimization is the practice of modifying code, assets, and database queries to run faster and use fewer resources. Anstric Games conducts profiling on Unity scripts and optimizes SQL query plans to minimize CPU cycles, network latency, and battery drain.
+
+Q47: What is data handling?
+A47: Data handling is the secure management, storage, and processing of application data. Anstric Games adheres to strict data privacy standards, ensuring user emails, exam scores, and system logs are encrypted both in transit (using SSL/TLS) and at rest (using database-level security).
+
+Q48: What is security in apps?
+A48: App security is the defense mechanism against unauthorized access, data breaches, and code exploits. Anstric Games builds multi-layered security protocols, including secure token authentication (JWT), cross-site scripting (XSS) prevention filters, and secure system sandboxing for exams.
+
+Q49: What is system architecture?
+A49: System architecture is the structural layout and relationship of software modules, servers, and networks. Anstric Games designs microservices and modular monolith patterns, ensuring that if a gaming database goes down, the authentication and educational services remain online.
+
+Q50: What is testing?
+A50: Testing is the quality assurance practice of verifying that software behaves exactly as expected. Anstric Games implements a dual-testing methodology, executing automated unit/integration tests (using Jest or Mocha) alongside manual regression tests before any major update is released.
+
+Q51: What is a development lifecycle?
+A51: A development lifecycle is the series of phases (requirement gathering, design, coding, testing, deployment, maintenance) that a software product moves through. Anstric Games uses this lifecycle to ensure that new features for Anstric IDE are designed thoroughly before writing code.
+
+Q52: What is continuous improvement?
+A52: Continuous improvement is the strategy of constantly refining software based on user telemetry and feedback. Anstric Games monitors app logs, reads review submissions, and conducts user interviews to push bi-weekly patches that improve UI clarity and resolve minor bugs.
+
+Q53: What is product design?
+A53: Product design is the end-to-end definition of what a software product will do, how it will look, and who will use it. At Anstric Games, product designers collaborate with engineers and marketing leads to ensure new features align with market needs and provide clear user value.
+
+Q54: What is user feedback?
+A54: User feedback is the raw input, suggestions, and bug reports sent by real users. Anstric Games reads feedback submitted through in-app contact forms, discord channels, and store reviews, prioritizing popular requests in their sprint planning.
+
+Q55: What is digital transformation?
+A55: Digital transformation is the integration of modern digital technology into traditional workflows. Anstric Games helps schools digitize their traditional paper-based computer science exams by deploying Anstric IDE's secure digital exam features.
+
+Q56: What is automation?
+A56: Automation is the configuration of scripts to perform repetitive tasks without human intervention. Anstric Games automates their database backups, code formatting checks (using Prettier and ESLint), test suites, and Docker deployment configurations.
+
+Q57: What is analytics?
+A57: Analytics is the collection and study of usage data to gain insights. Anstric Games tracks user activity, click events, average session lengths, and loading times to understand what features inside Anstric IDE are used most frequently.
+
+Q58: What is a tech stack?
+A58: A tech stack is the collection of programming languages, frameworks, libraries, databases, and deployment platforms used to build an app. Anstric Games' primary stack consists of Unity, C#, React, Node.js, TypeScript, PostgreSQL, and AWS cloud hosting.
+
+Q59: What is coding standard?
+A59: Coding standards are a set of guidelines for formatting and writing code to ensure readability and consistency. Anstric Games enforces strict style guides (using ESLint) to ensure that code written by senior engineers, junior developers, and interns is easy to read.
+
+Q60: What is documentation?
+A60: Documentation refers to written manuals, API reference docs, and guides that explain how code works and how to use software. Anstric Games maintains rich READMEs, Swagger/OpenAPI specifications, and developer setup guides to help new team members get onboarded quickly.
+
+Q61: What is a feature in software?
+A61: A feature is a specific, self-contained functional requirement or capability in an application. Examples at Anstric Games include the real-time matchmaking lobby in Border Game, the compiler output terminal in Anstric IDE, and the analytics charts on the admin dashboard.
+
+Q62: What is UI component?
+A62: A UI component is a modular, reusable visual element in a user interface, such as a button, input field, modal, or dropdown. Anstric Games maintains a custom component library in React, ensuring visual and behavioral consistency across all their dashboard pages.
+
+Q63: What is a framework?
+A63: A framework is a pre-built structure that developers write code inside of to speed up development. Anstric Games uses React for building dynamic web interfaces, and Express for writing structured, middleware-supported server endpoints.
+
+Q64: What is open-source?
+A64: Open-source refers to software whose source code is public and freely available for anyone to inspect, modify, and distribute. Anstric Games utilizes open-source libraries (like Knex, Axios, and Tailwind) and occasionally contributes bug fixes back to the open-source community.
+
+Q65: What is proprietary software?
+A65: Proprietary software is closed-source software owned by a company, with restrictions on its redistribution and modify rights. Anstric IDE and Border Game are proprietary software packages owned entirely by Anstric Games Private Limited.
+
+Q66: What is localization in games?
+A66: Localization is the process of translating and adapting game text, culture references, and audio for different regions. Anstric Games localizes Border Game into multiple languages, ensuring that dialogues, tutorials, and currency formats feel native to international players.
+
+Q67: What is accessibility?
+A67: Accessibility is the practice of designing software that can be used by everyone, including people with physical or cognitive disabilities. Anstric Games adds screen reader support, high-contrast UI modes, and scalable text options to Anstric IDE.
+
+Q68: What is engagement loop?
+A68: An engagement loop is a design framework consisting of a trigger, action, feedback, and reward that encourages users to return. Anstric Games designs loops in Border Game by offering daily login rewards, progression leveling, and match scoring.
+
+Q69: What is game mechanics?
+A69: Game mechanics are the rules, actions, and interactive systems that define the gameplay experience. At Anstric Games, this refers to movement rules, combat systems, resource management, and timer systems that players interact with during matches.
+
+Q70: What is leaderboard?
+A70: A leaderboard is a database-backed ranking system that displays the top-performing players based on points, wins, or achievements. Anstric Games manages a real-time leaderboard for Border Game, updating player ranks instantly at the end of each game session.
+
+Q71: What is a game update?
+A71: A game update is a patch released to the public containing new features, visual improvements, content additions, or code optimization. Anstric Games releases updates monthly to keep the gameplay fresh and fix any reported issues.
+
+Q72: What is patching?
+A72: Patching is the process of applying minor code updates to a running application to fix bugs, resolve security issues, or optimize performance. Anstric Games deploys hotfixes and patches quietly, minimizing downtime for active users.
+
+Q73: What is beta testing?
+A73: Beta testing is a phase where a near-final version of a software product is released to a select group of external users to find remaining bugs under real-world usage. Anstric Games runs closed betas with student groups before releasing major updates to Anstric IDE.
+
+Q74: What is alpha version?
+A74: An alpha version is an early, internal release of a software product that contains core features but is incomplete and may contain major bugs. Anstric Games tests alpha versions of new games internally with their developers and QA testers.
+
+Q75: What is MVP?
+A75: An MVP (Minimum Viable Product) is a version of a new product that contains just enough features to satisfy early adopters and gather feedback for future development. Anstric IDE was first released as an MVP focused solely on basic compiler launching before adding complex features like Exam Mode.
+
+Q76: What is startup scaling?
+A76: Startup scaling is the process of rapidly expanding a company's operations, user base, and revenue while maintaining efficiency. Anstric Games manages scaling by migrating their server workloads to cloud containers and automation scripts.
+
+Q77: What is digital branding?
+A77: Digital branding is the online identity and design consistency of a brand. Anstric Games maintains consistent branding across their websites, social channels, store pages, and application headers, using their signature logo, colors, and typography.
+
+Q78: What is content strategy?
+A78: A content strategy is the planning, creation, and delivery of digital material (articles, videos, posts, tutorials) to engage an audience. Anstric Games develops coding tutorials and game walkthroughs to support students using Anstric IDE.
+
+Q79: What is SEO?
+A79: SEO (Search Engine Optimization) is the practice of optimizing web pages to rank higher on search engines. Anstric Games writes clean HTML markup, optimizes loading speeds, and writes keyword-rich meta descriptions to ensure their landing pages are easily discoverable.
+
+Q80: What is app performance?
+A80: App performance is the measurement of how fast, responsive, and stable an application is. Anstric Games tracks metrics like frame rate (FPS) in games, response time in API requests, and load time in web applications to maintain a high-quality experience.
+
+Q81: What is code optimization?
+A81: Code optimization is the refactoring of source code to improve CPU usage, memory allocations, or overall execution speed. Anstric Games developers profile hot paths in their loop structures and cache database query results to speed up server operations.
+
+Q82: What is modular design?
+A82: Modular design is a software engineering practice where a system is split into independent, interchangeable modules. Anstric Games designs its backend systems using this approach, keeping the database access logic, route handlers, and RAG services in isolated folders.
+
+Q83: What is dependency?
+A83: A dependency is an external library, package, or third-party module that an application relies on to run. Anstric Games uses dependency management tools (like NPM) to track, inspect, and update libraries securely while avoiding dependency hell.
+
+Q84: What is integration testing?
+A84: Integration testing is the practice of testing how different modules or subsystems interact together. Anstric Games runs integration tests to verify that the chat services, SQLite databases, and Pinecone vector search layers interact correctly without data corruption.
+
+Q85: What is unit testing?
+A85: Unit testing is the practice of testing individual functions, components, or methods in absolute isolation from the rest of the codebase. Anstric Games developers write unit tests for their mathematical utility functions and helper methods to catch errors early.
+
+Q86: What is cloud hosting?
+A86: Cloud hosting is the practice of running application servers, databases, and assets on virtualized servers provided by cloud platforms (AWS, GCP, DigitalOcean). Anstric Games runs its backend APIs and multiplayer lobbies on scalable cloud instances.
+
+Q87: What is database?
+A87: A database is a structured system for storing, organizing, and retrieving digital information. Anstric Games uses relational databases (PostgreSQL and SQLite) for transactional user data, and vector databases (Pinecone) for semantic embeddings search in their RAG pipeline.
+
+Q88: What is SQL?
+A88: SQL (Structured Query Language) is the standard programming language used to manage and query relational databases. Anstric Games developers write SQL queries and use query builders (like Knex) to insert, update, and retrieve user registration details and game logs.
+
+Q89: What is NoSQL?
+A89: NoSQL is a category of non-relational database systems that store data in formats like documents, key-values, or graphs instead of tables. Anstric Games utilizes key-value caches (like Redis) alongside their relational databases to cache active session states.
+
+Q90: What is API?
+A90: An API (Application Programming Interface) is a set of rules and protocols that allows different applications to communicate with each other. Anstric Games develops robust REST and WebSocket APIs to let their frontend dashboards talk to their backend servers securely.
+
+Q91: What is Anstric Games’ long-term goal?
+A91: The long-term goal of Anstric Games is to build an international, self-sustaining ecosystem of digital education and interactive entertainment products. The company aims to have Anstric IDE adopted by thousands of universities worldwide, while consistently launching top-tier multiplayer games.
+
+Q92: What is Anstric Games’ strength?
+A92: The core strength of Anstric Games lies in its high technical standards, rapid execution speed, and customer-first design philosophy. The team is capable of moving from design mockups to fully functional, high-performance prototypes in a matter of weeks.
+
+Q93: What is the role of creativity?
+A93: Creativity at Anstric Games is the catalyst for designing unique user experiences. Whether it is scripting branching narrative stories for their game titles, designing game-like learning interfaces, or solving complex vector database indexing problems, creativity drives their engineering choices.
+
+Q94: What is teamwork in projects?
+A94: Teamwork is the collaborative effort of designers, writers, frontend engineers, backend developers, and QA specialists working together. Anstric Games supports a highly communicative workspace where different roles cross-train and align closely to ship projects.
+
+Q95: What is leadership in startups?
+A95: Leadership in startups is the ability to guide vision, execute strategy, and keep the team motivated through uncertainty. Leadership at Anstric Games focuses on maintaining flat communication channels, supporting continuous growth, and setting clear quality expectations.
+
+Q96: What is product-market fit?
+A96: Product-market fit is the degree to which a product satisfies a strong market demand. Anstric Games achieved product-market fit with Anstric IDE's Exam Mode by directly addressing the high demand from academic institutions for a secure coding exam setup.
+
+Q97: What is innovation culture?
+A97: An innovation culture is an environment that encourages employees to experiment, take calculated risks, and pitch new ideas without fear of failure. Anstric Games supports this by hosting internal hackathons and game jams where developers prototype new mechanics.
+
+Q98: What is digital ecosystem?
+A98: A digital ecosystem is a connected network of digital tools, services, and applications that work together. Anstric Games builds a unified ecosystem where user accounts, settings, telemetry data, and support channels are shared between their games, websites, and Anstric IDE.
+
+Q99: What is Anstric Games known for?
+A99: Anstric Games is known for engineering high-quality, reliable, and user-centric software products and strategic games. The company has earned a reputation for combining polished visual design, robust backend systems, and unique, innovative product features.
+
+Q100: Why choose Anstric Games?
+A100: You should choose Anstric Games because we build high-performance, secure, and thoughtfully designed digital solutions. Whether using Anstric IDE to simplify programming education or playing Border Game with friends, our dedication to software excellence ensures a premium, reliable experience.

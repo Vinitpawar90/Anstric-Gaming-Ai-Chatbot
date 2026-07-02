@@ -1,0 +1,76 @@
+# Sales and Customer Success Playbook
+
+**Q: What are the current pricing tiers for our Enterprise product?**
+A: The cBrain Enterprise product has three main tiers: Starter ($500/month for up to 50 users), Professional ($2000/month for up to 250 users), and Custom Enterprise (contact Sales VP for quote). All tiers require an annual commitment. Volume discounts unlock at 500+ seats.
+
+**Q: What constitutes a Sales Qualified Lead (SQL)?**
+A: A lead is qualified as an SQL if they meet the BANT criteria (Budget, Authority, Need, Timeline). They must have decision-making capability, a confirmed budget over $10k, a specific use case identified by our SDR team, and an intended launch date within the next 6 months.
+
+**Q: How do I log a customer churn risk in Salesforce?**
+A: If a client expresses dissatisfaction or mentions evaluating competitors, log into Salesforce, navigate to their Account page, click "Create Support Ticket", and tag it with "CHURN-RISK". Then, immediately set up a check-in meeting and invite your regional Customer Success Manager (CSM).
+
+**Q: What is the commission structure for the current quarter?**
+A: Account Executives earn a 10% base commission on all net-new Annual Recurring Revenue (ARR). Upsells to existing accounts earn a 5% commission. If you exceed your quarterly quota, a 2x accelerator applies to all revenue above the 100% mark. Commission payouts occur on the last day of the following month.
+
+**Q: How do I request a custom product demo environment for a prospect?**
+A: Go to the internal "Demo Provisioning" portal. Submit the prospect's industry, company size, and primary use case. The Solutions Engineering team requires 3 business days to configure a tailored demo instance loaded with relevant sample data.
+
+**Q: What is the standard SLA for the Professional support tier?**
+A: Professional tier customers are guaranteed a 4-hour initial response time during standard business hours (9 AM - 6 PM EST, M-F) for Severity 1 (Critical) issues. Severity 2 and 3 issues have a 24-hour response SLA. Starter tier is limited to email support with a 48-hour SLA.
+
+**Q: How do I request a discount approval?**
+A: Any discount up to 10% requires the approval of your regional Director. Discounts up to 20% require VP of Sales approval. Anything above 20% must be approved by the CRO. Submit the request through the Salesforce CPQ quoting tool.
+
+**Q: What is our standard trial period length?**
+A: We offer a standard 14-day free trial on the Starter plan. Extensions to 30 days are permissible for qualified enterprise prospects actively engaged in a Proof of Concept (PoC) evaluation.
+
+**Q: How do I record a sales call?**
+A: We use Gong for conversational intelligence. Ensure your Zoom/Teams integration is active. The system will automatically record, transcribe, and analyze all external meetings for training and notes purposes.
+
+**Q: Where do I find the latest pitch deck?**
+A: The current quarter's official pitch deck is always stored in Highspot under the "Core Materials" section. Please do not save local copies to avoid presenting outdated messaging.
+
+**Q: Who is our primary competitor and what is our differentiator?**
+A: Our primary competitor is AcmeCorp. Our key differentiator is our proprietary AI-driven analytics engine, which typically reduces implementation time by 40% compared to their manual configuration tools.
+
+**Q: What are the terms for a Multi-Year contract?**
+A: We offer a 5% discount for a 2-year commitment and a 10% discount for a 3-year commitment. Multi-year contracts are billed annually upfront and must include a firm anti-cancellation clause.
+
+**Q: How do I handle legal redlines in a contract?**
+A: When a prospect sends back a redlined Master Services Agreement (MSA), do not attempt to edit it yourself. Upload the document to Ironclad and tag the `#legal-review` channel. Legal SLA is 2 business days.
+
+**Q: What is a Proof of Concept (PoC)?**
+A: A PoC is an assisted evaluation where our Solutions team sets up a limited production environment for the prospect to test specific business outcomes before signing a contract. A PoC requires execution of an NDA and PoC Agreement.
+
+**Q: How do I transition a closed-won deal to Customer Success?**
+A: Once the contract is signed in DocuSign, update the Opportunity to "Closed Won" in Salesforce. This triggers the CS handoff workflow. You must complete the "Sales to CS Handoff Document" and attend the internal kickoff meeting.
+
+**Q: What is our policy on gifting to clients?**
+A: Gifting is permitted using the Sendoso platform. Gifts must not exceed $100 in value per recipient per year, in compliance with our anti-bribery policies.
+
+**Q: How are SDR commission structures set?**
+A: Sales Development Reps (SDRs) earn a fixed rate of $150 for every meeting held and completed that was scheduled via outbound prospecting.
+
+**Q: How do I request Marketing collateral or case studies?**
+A: If you need a specific case study that doesn't exist, submit a request via the Asana Marketing Board. Note that building a new case study from scratch requires at least 4 weeks lead time.
+
+**Q: Can we offer net-60 payment terms?**
+A: Our standard payment terms are Net-30. Extending to Net-60 requires explicit approval from the VP of Finance during the quoting process.
+
+**Q: What happens if a customer churns within the first 6 months?**
+A: If a customer churns or demands a refund within the first 6 months due to mis-sold capabilities, the Account Executive's commission for that deal will be fully clawed back on the subsequent paycheck.
+
+**Q: How do I register a deal for Partner/Channel sales?**
+A: Partners must register their leads in the Partner Portal. If you uncover a lead that is actively worked by a partner, you must tag the "Channel Account" field in Salesforce to ensure proper revenue attribution.
+
+**Q: What is the process for Security Questionnaires?**
+A: Do not fill them out manually. Upload the questionnaire to our Loopio trust center software. It will auto-populate 80% of answers. You can then assign the remaining technical questions to the Infosec team within the platform.
+
+**Q: How do we handle reference calls?**
+A: To request a customer reference call for a prospect, fill out the "Reference Request Form" in Salesforce specifying the industry and use case. The Customer Marketing team will coordinate the connection. Do not reach out to customers directly.
+
+**Q: What are the primary KPIs for Customer Success Managers?**
+A: CSMs are evaluated on Gross Retention Rate (GRR), Net Retention Rate (NRR), and time-to-first-value (onboarding speed).
+
+**Q: Can we accept credit cards for payment?**
+A: Yes, we accept credit cards via Stripe for the Starter and Professional tiers, up to a maximum invoice amount of $15,000. Larger enterprise invoices must be paid via ACH or wire transfer.
